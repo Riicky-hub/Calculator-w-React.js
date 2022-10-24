@@ -1,6 +1,6 @@
 # README
-## LiveServer
-Link para acessar o site - [GitHub Pages](https://github.com/Riicky-hub)
+## Script
+Para visualizar utilize: - npm start
 
 ## Referências
 
